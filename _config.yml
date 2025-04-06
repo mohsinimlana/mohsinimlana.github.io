@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Mohsin Khan"
+title                    : "Homepage"
 title_separator          : "-"
 name                     : &name "Mohsin Khan"
 description              : &description "Autonomous systems enthusiast"
