@@ -75,13 +75,13 @@ author:
   zhihu            : # Username
 
 # Publication Category - The following the list of publication categories and their headings
-publication_category:
-  books:
-    title: 'Books'
-  manuscripts:
-    title: 'Mohsin Khan, K., Rao, T. B., Manjunath, B. N., Abhinav, K., Vinod, A. R., and Mohammed, R. (May 23, 2023). "Studies on the Effect of Substrate Preheating, Interlayer Dwell, and Heat Treatment on Microstructure, Residual Stress, and Mechanical Properties of IN625 Superalloy Built by Direct Metal Deposition." ASME. J. Eng. Mater. Technol. October 2023; 145(4): 041004. https://doi.org/10.1115/1.4062503'    
-  conferences:
-    title: 'Conference Papers'
+#publication_category:
+#  books:
+#    title: 'Books'
+#  manuscripts:
+#    title: 'Mohsin Khan, K., Rao, T. B., Manjunath, B. N., Abhinav, K., Vinod, A. R., and Mohammed, R. (May 23, 2023). "Studies on the Effect of Substrate Preheating, Interlayer Dwell, and Heat Treatment on Microstructure, Residual Stress, and Mechanical Properties of IN625 Superalloy Built by Direct Metal Deposition." ASME. J. Eng. Mater. Technol. October 2023; 145(4): 041004. https://doi.org/10.1115/1.4062503'    
+#  conferences:
+#    title: 'Conference Papers'
 
 # Site Settings
 teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
