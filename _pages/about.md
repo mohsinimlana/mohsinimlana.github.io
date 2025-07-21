@@ -15,14 +15,10 @@ ROS2, Python, Transformers, Pytorch, Tensorflow, DMDCAM, SOLIDWORKS, AutoCAD
 
 Experience
 ======
-• Work Student at Fraunhofer IWS - Dresden, Germany
-
-Involved in the Automation of additive manufacturing system.
+• Work Student at Fraunhofer IWS, Dresden, Germany - Involved in the Automation of additive manufacturing system.
 
 
-•	Project fellow at Centre for Additive & Special Manufacturing Processes, CMTI, Ministry of Heavy Industries – Bengaluru, India
-
-Involved in a ₹70 million R&D initiative focused on pioneering a next-generation metal additive manufacturing system. This cutting-edge project integrates advanced sensor networks for in-situ detection, enabling real-time monitoring and analysis of critical process variables, applying machine learning techniques to optimize production quality and precision, pushing the boundaries of intelligent manufacturing and automation.
+•	Project fellow at Centre for Additive & Special Manufacturing Processes, CMTI, Ministry of Heavy Industries, Bengaluru, India - Involved in a ₹70 million R&D project that integrated advanced sensor networks for in-situ detection, enabled real-time monitoring and analysis of critical process variables and applied machine learning techniques to optimize production quality and precision.
 
 
 
