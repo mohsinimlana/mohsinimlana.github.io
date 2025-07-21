@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Driven by a fascination with robotics and artificial intelligence, I channel my passion for autonomous systems into developing intelligent technologies that think, adapt, and evolve— unlocking new possibilities for automation across industries.
+Driven by a fascination with robotics and artificial intelligence, I channel my passion for autonomous systems into developing intelligent technologies that think, adapt, and evolve — unlocking new possibilities for automation across industries.
 
 A data-driven personal website
 ======
